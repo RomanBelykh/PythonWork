@@ -1,0 +1,9 @@
+1
+5
+3
+ & C:/Users/Роман/AppData/Local/Programs/Python/Python310/python.exe c:/Users/Роман/Desktop/python/Homework2/Homework2.py
+5
+4
+3
+2
+1
